@@ -4,12 +4,12 @@ To access the web application
 
 >Terminal 1:
 
-cd api
+- cd api
 
-npm start
+- npm start
 
 >Terminal 2:
 
-cd client
+- cd client
 
-npm start
+- npm start
